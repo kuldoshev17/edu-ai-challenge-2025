@@ -1,0 +1,33 @@
+Instruction:
+You will be given an informal bug note. Please transform it into a detailed, well-structured bug ticket using the format below:
+
+Format to follow:
+Title:
+[A concise summary of the bug]
+
+Description:
+[A clear explanation of the issue, including what is not working as expected]
+
+Steps to Reproduce:
+
+[Step one]
+
+[Step two]
+
+[Step three]
+...
+
+Expected vs Actual Behavior:
+
+Expected: [What should happen]
+
+Actual: [What actually happens]
+
+Environment (if known):
+[Browser, OS, device, app version, etc.]
+
+Severity or Impact:
+[How critical or impactful the bug is, e.g., blocker, major, minor, cosmetic]
+
+Example conversion for the note:
+“Logout button doesn’t work on Safari. It just doesn’t respond.”
