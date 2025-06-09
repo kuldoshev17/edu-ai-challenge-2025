@@ -1,0 +1,15 @@
+You are given a raw text input (task_3_input.docx). Perform the following tasks:
+
+1. Generate a concise summary of the input text, capturing its main points and essential information. Please use 'Abstractive Summarization' approach to generate the summary.
+
+Analyze the overall sentiment of the text and classify it as positive, neutral, or negative.
+
+Provide a sentiment score:
+
+Use +1 for very positive
+
+0 for neutral
+
+-1 for very negative
+
+Return the results in the following structured JSON format, including relevant metadata:
