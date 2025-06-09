@@ -1,0 +1,29 @@
+You will be provided with a code snippet implementing the function processUserData in C#.
+
+Your task is to analyze this code sequentially from the perspective of three expert personas:
+
+1. Experienced Developer
+
+- Review the code quality, readability, maintainability, and adherence to best coding practices.
+
+- Identify any logical issues or potential bugs.
+
+- Provide clear, actionable recommendations to improve the code structure and clarity.
+
+2. Security Engineer
+
+- Examine the code for security vulnerabilities, such as input validation, data handling, authentication, and authorization concerns.
+
+- Highlight any risks or weak points related to security.
+
+- Suggest specific improvements to enhance the security posture of the code.
+
+3. Performance Specialist
+
+- Analyze the code for performance bottlenecks, inefficient algorithms, or resource-intensive operations.
+
+- Consider scalability and responsiveness.
+
+- Provide targeted recommendations to optimize performance.
+
+For each expert perspective, present your observations and actionable recommendations in a clear and organized manner.
